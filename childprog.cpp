@@ -3,6 +3,6 @@
 #include<iostream>
 
 int main(){
-  cout<<"hello world"<<endl;
+  cout<<"hello world child"<<endl;
   return 0;
 }
